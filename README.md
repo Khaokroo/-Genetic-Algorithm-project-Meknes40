@@ -1,2 +1,1 @@
-"# -Genetic-Algorithm-project-Berlin52" 
-"# -Genetic-Algorithm-project-Berlin52" 
+The project's objective was to apply a genetic algorithm to optimize solutions for the Meknes40 TSP instances, ultimately achieving improved performance by minimizing the total travel distance for geographical areas. 
